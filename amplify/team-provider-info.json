@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ailenhairstylist-dev-94444-authRole",
+      "UnauthRoleArn": "arn:aws:iam::132478238461:role/amplify-ailenhairstylist-dev-94444-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::132478238461:role/amplify-ailenhairstylist-dev-94444-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-ailenhairstylist-dev-94444-deployment",
+      "UnauthRoleName": "amplify-ailenhairstylist-dev-94444-unauthRole",
+      "StackName": "amplify-ailenhairstylist-dev-94444",
+      "StackId": "arn:aws:cloudformation:us-east-1:132478238461:stack/amplify-ailenhairstylist-dev-94444/1848e480-24a8-11ee-81d8-0e552cb61243",
+      "AmplifyAppId": "d20cgbm2w6scbu"
+    }
+  }
+}
