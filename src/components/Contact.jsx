@@ -15,7 +15,7 @@ function Contact() {
        
         
        <img
-         src="https://pixabay.com/get/g323d7e13eae4db44154b8e55db189d6333573f7d440ddd865595031c0015ecd12e31a524f5cf695057775d30493667e61438bb9c7250cdcf2a53a0b89bdddf39_1280.jpg"
+         src="https://ailenhairstylistweb.s3.amazonaws.com/salon-hair-stylist-5331382_1280.png"
          alt="Contact"
          className="w-full h-auto object-cover rounded-tl-2xl rounded-br-2xl"
        />
